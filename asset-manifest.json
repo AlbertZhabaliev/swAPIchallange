@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/static/css/main.1b398baf.chunk.css",
-    "main.js": "/github.io/static/js/main.683feae7.chunk.js",
-    "main.js.map": "/github.io/static/js/main.683feae7.chunk.js.map",
-    "runtime~main.js": "/github.io/static/js/runtime~main.50f22872.js",
-    "runtime~main.js.map": "/github.io/static/js/runtime~main.50f22872.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/github.io/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.590933e2.chunk.js": "/github.io/static/js/2.590933e2.chunk.js",
-    "static/js/2.590933e2.chunk.js.map": "/github.io/static/js/2.590933e2.chunk.js.map",
-    "index.html": "/github.io/index.html",
-    "precache-manifest.743dde226c56139014ee2c5259c8da42.js": "/github.io/precache-manifest.743dde226c56139014ee2c5259c8da42.js",
-    "service-worker.js": "/github.io/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/github.io/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.1b398baf.chunk.css.map": "/github.io/static/css/main.1b398baf.chunk.css.map"
+    "main.css": "/github.io/swAPIchallange/static/css/main.1b398baf.chunk.css",
+    "main.js": "/github.io/swAPIchallange/static/js/main.b9ab5a1e.chunk.js",
+    "main.js.map": "/github.io/swAPIchallange/static/js/main.b9ab5a1e.chunk.js.map",
+    "runtime~main.js": "/github.io/swAPIchallange/static/js/runtime~main.78600dba.js",
+    "runtime~main.js.map": "/github.io/swAPIchallange/static/js/runtime~main.78600dba.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/github.io/swAPIchallange/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.590933e2.chunk.js": "/github.io/swAPIchallange/static/js/2.590933e2.chunk.js",
+    "static/js/2.590933e2.chunk.js.map": "/github.io/swAPIchallange/static/js/2.590933e2.chunk.js.map",
+    "index.html": "/github.io/swAPIchallange/index.html",
+    "precache-manifest.34ce18c7a57f8ab0ec046e8708c2a0ad.js": "/github.io/swAPIchallange/precache-manifest.34ce18c7a57f8ab0ec046e8708c2a0ad.js",
+    "service-worker.js": "/github.io/swAPIchallange/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/github.io/swAPIchallange/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.1b398baf.chunk.css.map": "/github.io/swAPIchallange/static/css/main.1b398baf.chunk.css.map"
   }
 }

@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/github.io/swAPIchallange/static/css/main.1b398baf.chunk.css",
-    "main.js": "/github.io/swAPIchallange/static/js/main.b9ab5a1e.chunk.js",
-    "main.js.map": "/github.io/swAPIchallange/static/js/main.b9ab5a1e.chunk.js.map",
-    "runtime~main.js": "/github.io/swAPIchallange/static/js/runtime~main.78600dba.js",
-    "runtime~main.js.map": "/github.io/swAPIchallange/static/js/runtime~main.78600dba.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/github.io/swAPIchallange/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.590933e2.chunk.js": "/github.io/swAPIchallange/static/js/2.590933e2.chunk.js",
-    "static/js/2.590933e2.chunk.js.map": "/github.io/swAPIchallange/static/js/2.590933e2.chunk.js.map",
-    "index.html": "/github.io/swAPIchallange/index.html",
-    "precache-manifest.34ce18c7a57f8ab0ec046e8708c2a0ad.js": "/github.io/swAPIchallange/precache-manifest.34ce18c7a57f8ab0ec046e8708c2a0ad.js",
-    "service-worker.js": "/github.io/swAPIchallange/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/github.io/swAPIchallange/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.1b398baf.chunk.css.map": "/github.io/swAPIchallange/static/css/main.1b398baf.chunk.css.map"
+    "main.css": "/swAPIchallange/static/css/main.1b398baf.chunk.css",
+    "main.js": "/swAPIchallange/static/js/main.6bbd7b5f.chunk.js",
+    "main.js.map": "/swAPIchallange/static/js/main.6bbd7b5f.chunk.js.map",
+    "runtime~main.js": "/swAPIchallange/static/js/runtime~main.c019baac.js",
+    "runtime~main.js.map": "/swAPIchallange/static/js/runtime~main.c019baac.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/swAPIchallange/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.590933e2.chunk.js": "/swAPIchallange/static/js/2.590933e2.chunk.js",
+    "static/js/2.590933e2.chunk.js.map": "/swAPIchallange/static/js/2.590933e2.chunk.js.map",
+    "index.html": "/swAPIchallange/index.html",
+    "precache-manifest.0c8154dbc587df260d1ccf71392b5c57.js": "/swAPIchallange/precache-manifest.0c8154dbc587df260d1ccf71392b5c57.js",
+    "service-worker.js": "/swAPIchallange/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/swAPIchallange/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.1b398baf.chunk.css.map": "/swAPIchallange/static/css/main.1b398baf.chunk.css.map"
   }
 }
